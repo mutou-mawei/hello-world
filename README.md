@@ -1,2 +1,2 @@
 # hello-world
-The first day, at the beggaining
+The first day, at the beginning
